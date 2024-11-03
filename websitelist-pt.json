@@ -1,0 +1,674 @@
+{
+  "site_name" : "A Grande Lista do Comunismo",
+  "site_tagline" : "O diretório de páginas comunistas",
+
+  "site_page_list" : "Lista",
+  "site_page_about" : "Sobre",
+  "site_page_community" : "Comunidade",
+  
+  "translation_select_text" : "Selecionar tradução:",
+  "translation_select_button" : "Recarregar lista",
+
+  "site_catname_all" : "Todas as Páginas",
+  "site_catname_leftcom" : "Toda a Esquerda Comunista",
+  "site_catname_archive" : "Todos os sites de arquivamento",
+  "site_catname_itleft" : "Esquerda partidária \"italiana\"",
+  "site_catname_coleft" : "Esquerda de conselhos \"germano-holandesa\"",
+  "site_catname_esleft" : "Esquerda espanhola",
+  "site_catname_scileft" : "Esquerda anti-fórmista",
+  "site_catname_communization" : "Comunização",
+  "site_catname_autonomiarel" : "Autonomia e relacionados",
+  "site_catname_situationist" : "Situacionistas",
+  "site_catname_icp" : "Pretendentes ao Partido Comunista Internacional",
+
+  "site_copyright" : "A Grande Lista do Comunismo / The Big List of Communism (TBLOC) © 2024 Os Contribuidores do TBLOC. Todos os direitos reservados.",
+  "site_gpl" : "Esse trabalho é Software Livre, distribuido sob os termos da Licença Geral Pública GNU Affero, Versão 3. <a href=\"/LICENSE.txt\">Leia o texto original em Inglês</a>.",
+  
+  "site_lang" : "pt",
+
+  "websites" : [
+    {
+      "online" : "yes",
+      "name" : "Arquivo Marxista na Internet",
+      "description" : "O maior arquivo comunista do mundo, contendo obras de praticamente todos que já se autodenominaram comunistas (e alguns que definitivamente não compactuam com o rótulo). Fundado na década de 1990, ele fornece textos e procedimentos completamente sem censura.",
+      "url" : "https://www.marxists.org/",
+      "categories" : [
+        "all",
+        "archive"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "leftove.rs",
+      "description" : "Um arquivo com foco em movimentos políticos de 'inclinação à esquerda' que são frequentemente ignorados, incluindo movimentos comunistas. Notável por hospedar principalmente obras escaneadas, preservando assim o tom estético das mesmas.",
+      "url" : "https://archive.leftove.rs/",
+      "categories" : [
+        "all",
+        "archive"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Tendência Comunista Internacionalista",
+      "description" : "Formada em 2009 por meio do Órgão Internacional por um Partido Revolucionário, uma reconciliação anterior da Organização dos Trabalhadores Comunistas (Reino Unido) e do Partido Comunista Internacionalista. É, portanto, a herdeira do partido 'original' da Esquerda Comunista 'italiana', e a maior organização que representa essa tendência, devido aos seus grupos afiliados. É bem conhecida por sua posição antissindical.",
+      "url" : "https://www.leftcom.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "ictorbit"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Endnotes",
+      "description" : "O maior periódico na tendência da Comunização.",
+      "url" : "https://endnotes.org.uk/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "communization"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "MEGAdigital",
+      "description" : "Partes digitais da Edição Completa Marx-Engels, na língua alemã.",
+      "url" : "https://megadigital.bbaw.de/",
+      "categories" : [
+        "all"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Bureau of Public Secrets",
+      "description" : "Traduções de obras da Internacional Situacionista para o inglês. Também conta com algúns outros artigos.",
+      "url" : "https://bopsecrets.org/",
+      "categories" : [
+        "all",
+        "situationist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "P. C. Internacional (2024, O Partido Comunista / O Comunista Internacional)",
+      "description" : "Um dos pretendentes ao nome do Partido Comunista Internacional, e provavelmente o maior entre os 'PCIs'. O grupo é composto pela antiga maioria do Il Partito (1973), e se separou dele em 2024 após uma onda de expulsões. Confusamente, mesmo se tratando de uma cisão, eles tomaram a posse legal da marca 'O Partido Comunista', então publicam o seu periódico sob ela.",
+      "url" : "https://www.intcp.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Crítica Desapiedada (Alemanha, 2011)",
+      "description" : "Uma coleção de traduções e artigos originais, separados por tópicos.",
+      "url" : "https://ruthlesscriticism.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Balance y Avante",
+      "description" : "Grupo espanhol originário de antigos militantes do 'O Partido Comunista' (1973).",
+      "url" : "https://balanceyavante1.wordpress.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Coletiva Comunista de Conselhos",
+      "description" : "Uma tentativa de unificar aqueles que aderem ao comunismo de conselhos. Fundado em 2023.",
+      "url" : "https://www.councilist.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Quinterna / n+1",
+      "description" : "Um dos principais grupos de trabalho focados na interação do comunismo revolucionário com o ambiente científico atual. Por meio do QuinternaLab, ele hospeda reuniões e coordena o trabalho coletivo.",
+      "url" : "https://www.quinterna.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "scileft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "P. C. Internacional (1973, O Partido Comunista Internacional)",
+      "description" : "Um dos pretendentes ao nome Partido Comunista Internacional, nascido da implosão do 'O Programa Comunista' nas décadas de 1970 e 1980, depois que sua seção de Florença foi expulsa em 1973. Publicava 'O Partido Comunista' até 2024, quando perderam a marca em uma cisão. Seu periódico foi, portanto, retroativamente nomeado para 'O Partido Comunista Internacional'.",
+      "url" : "https://www.international-communist-party.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "P. C. Internacional (O Programa Comunista)",
+      "description" : "Um dos pretendentes ao nome Partido Comunista Internacional, nascido de uma cisão no PCInt (Partido Comunista Internacionalista) em 1952.",
+      "url" : "https://www.internationalcommunistparty.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "P. C. Internacional (O Proletário)",
+      "description" : "Um dos pretendentes ao nome Partido Comunista Internacional, se separou do 'O Programa Comunista' em 1982.",
+      "url" : "https://www.pcint.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "P. C. Internacional (O Comunista)",
+      "description" : "Não confundir com 'O Proletário', que publica o 'Il Comunista' na Itália. Um dos pretendentes ao nome do Partido Comunista Internacional, nascido da implosão do 'O Programa Comunista' nas décadas de 1970-80, se separou por volta de 1983.",
+      "url" : "https://www.pcielcomunista.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Grupo Barbaria",
+      "description" : "A maior organização da esquerda comunista 'italiana' na Espanha e aquela em torno da qual orbitam a maioria das organizações comunistas de esquerda da 'nova onda' na Europa.",
+      "url" : "https://barbaria.net/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "esleft",
+        "scileft" 
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Communia",
+      "description" : "Blog marxista em espanhol e inglês com foco na Espanha.",
+      "url" : "https://en.communia.blog/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "esleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Controverses",
+      "description" : "Um site comunista que consiste principalmente de procedimentos internos da Esquerda Comunista 'Italiana'. Supostamente foi criada por meio de uma cisão da CCI, em algúm ano incerto.",
+      "url" : "https://www.leftcommunism.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Coletivo Solar",
+      "description" : "Grupo de trabalho fundado em 2024. Enfatiza o centralismo orgânico.",
+      "url" : "https://solarcollective.comrades.sbs/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "scileft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Coletivo Técnico Revolucionário",
+      "description" : "Um grupo de trabalho técnico comunista fundado em 2022, hoje se preocupa principalmente com a manutenção de páginas da Esquerda Comunista.",
+      "url" : "https://comrades.sbs/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Corrente Comunista Internacional",
+      "description" : "Formada em 1975. Composta majoritariamente por franceses, ela é a maior defensora da tese de que o capitalismo global está em uma 'crise gerenciada' desde a Primeira Guerra Mundial.",
+      "url" : "https://en.internationalism.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Grupo Internacional da Esquerda Comunista",
+      "description" : "Grupo comunista fundado em 2013.",
+      "url" : "https://igcl.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "ictorbit"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "A Esquerda Internacional",
+      "description" : "Pequeno partido da esquerda comunista na Itália.",
+      "url" : "https://sinistracomunistainternazionale.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Grupo Comunista Mundial",
+      "description" : "Um grupo extinto, que se separou da Revista Invariança por volta de 1969.",
+      "url" : "http://groupe-communiste-mondial.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Perspectiva Comunista Internacionalista",
+      "description" : "Grupo comunista de esquerda na Coréia, que publica artigos em inglês e coreano.",
+      "url" : "http://communistleft.jinbo.net/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "GegenStandpunkt",
+      "description" : "Uma publicação pós-maoísta influente na Alemanha, incluída devido à sua influência em algumas críticas contemporâneas da Esquerda Comunista. Também publica em outros idiomas.",
+      "url" : "https://de.gegenstandpunkt.com/",
+      "categories" : [
+        "all"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Aconselhando o Comunismo",
+      "description" : "Um círculo de estudos comunistas de conselhos fundado em 2020.",
+      "url" : "https://counselingcommunism.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Voz dos Trabalhadores",
+      "description" : "Publicação holandesa alinhada ao comunismo de conselhos.",
+      "url" : "https://arbeidersstemmen.wordpress.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },    
+    {
+      "online" : "yes",
+      "name" : "Materiales X La Emancipacion",
+      "description" : "Publicação em espanhol, majoritariamente alinhada ao comunismo de conselhos.",
+      "url" : "https://materialesxlaemancipacion.espivblogs.net/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "esleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Comunismo de Esquerda",
+      "description" : "Um arquivo com vários textos, principalmente da tendência germano-holandesa do comunismo de esquerda.",
+      "url" : "https://leftdis.wordpress.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "esleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Paul Mattick Homepage",
+      "description" : "Arquivo extinto de vários textos de Paul Mattick.",
+      "url" : "http://web.archive.org/web/20090303065300/http://home.no/mattick/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Riff-Raff",
+      "description" : "Extinto grupo comunista de esquerda sueco.",
+      "url" : "https://web.archive.org/web/20081231132524/http://www.riff-raff.se/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Arquivos Antonie Pannekoek",
+      "description" : "Arquivo de literatura comunista de conselhos.",
+      "url" : "https://www.aaap.be/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Root And Branch Archives",
+      "description" : "Arquivo extinto sobre Root and Branch, um pequeno grupo associado a Paul Mattick Filho.",
+      "url" : "https://web.archive.org/web/20041028192535/http://www.labor.iu.edu/LaborHistory/rab/home.html",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Kurasje",
+      "description" : "Arquivo comunista de conselho extinto.",
+      "url" : "http://web.archive.org/web/20090221055640/http://www.kurasje.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Arbertarmakt",
+      "description" : "Arquivo comunista de conselho extinto.",
+      "url" : "http://web.archive.org/web/20090221153345/http://www.arbetarmakt.nu/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Perspectiva Internacionalista",
+      "description" : "Separou-se da CCI em 1986. Hoje, funciona primeiramente como uma publicação comunista.",
+      "url" : "https://internationalistperspective.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "För Kommunism",
+      "description" : "Grupo comunista de esquerda sueco extinto há muito tempo.",
+      "url" : "http://web.archive.org/web/20090727161329/http://geocities.com/forkommunism/",
+      "categories" : [
+        "all",
+        "leftcom"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "O Proletariado Universal",
+      "description" : "Uma página com entrevistas e textos históricos da tradição comunista de esquerda.",
+      "url" : "https://proletariatuniversel.blogspot.com/",
+      "categories" : [
+        "all",
+        "leftcom"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Troploin",
+      "description" : "Uma publicação na tendência da Comunização. Publica em francês e inglês.",
+      "url" : "https://troploin.fr/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "communization"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Revista Viewpoint",
+      "description" : "Publicação marxista de amplo espectro, grupo de pesquisa e estudo.",
+      "url" : "https://troploin.fr/",
+      "categories" : [
+        "all",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Arquivo da Sojourner Truth Organization",
+      "description" : "Arquivo de panfletos e publicações da Sojourner Truth Organization, um grupo autonomista antirracista dos EUA.",
+      "url" : "http://www.sojournertruth.net/",
+      "categories" : [
+        "all",
+        "archive",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Revista Críticas Materiais",
+      "description" : "Publicação comunista de esquerda publicada em francês, inglês e espanhol.",
+      "url" : "https://materiauxcritiques.wixsite.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Zerowork",
+      "description" : "Arquivo de trabalhos de um coletivo e periódico nomeados em torno de seu apoio ao conceito da 'preguiça' como um meio de insubordinação. Apresenta muitos escritos de Harry Cleaver, e foi influente em seu nicho.",
+      "url" : "https://zerowork.org/",
+      "categories" : [
+        "all",
+        "autonomiarel",
+        "archive"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "workerscontrol.net",
+      "description" : "Um arquivo de várias obras amplamente alinhadas com o autonomismo e a dissidência comunista.",
+      "url" : "https://www.workerscontrol.net/",
+      "categories" : [
+        "all",
+        "archive",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Hic Salta - Communisation",
+      "description" : "Um blog de comunização espanhol com influências autonomistas.",
+      "url" : "https://www.hicsalta-communisation.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "esleft",
+        "autonomiarel",
+        "communization"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Blaumachen",
+      "description" : "Um blog multilíngue, com influências de autonomia e comunização.",
+      "url" : "https://www.blaumachen.gr/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "esleft",
+        "autonomiarel",
+        "communization"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Arquivo Big Flame",
+      "description" : "Arquivos de uma organização de classe 'libertária'/autonomista que existia no leste de Londres, conhecida por administrar um 'Sindicato dos Requerentes' focado naqueles que recebiam o seguro-desemprego no Reino Unido.",
+      "url" : "https://www.eastlondonbigflame.org.uk/",
+      "categories" : [
+        "all",
+        "archive",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Greve Global da Mulher",
+      "description" : "O principal grupo por trás do movimento 'Salários por Trabalho Doméstico'.",
+      "url" : "https://globalwomenstrike.net/",
+      "categories" : [
+        "all",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Notas de Baixo",
+      "description" : "Um grupo de investigação de condições trabalhistas.",
+      "url" : "https://www.angryworkers.org/",
+      "categories" : [
+        "all",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Angry Workers of the World",
+      "description" : "Organização com tendências autonomistas.",
+      "url" : "https://www.angryworkers.org/",
+      "categories" : [
+        "all",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Internationale Situationniste in English",
+      "description" : "Traduções inglesas de obras situacionistas.",
+      "url" : "https://isinenglish.com/",
+      "categories" : [
+        "all",
+        "situationist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Comitês de Notícias e Cartas",
+      "description" : "Um grupo marxista-humanista nos EUA, que publica o periódico 'News & Letters'. Fundado em 1955, ele mereçe inclusão nesta lista devido à sua influência em posições dissidentes mais fortes.",
+      "url" : "https://newsandletters.org/",
+      "categories" : [
+        "all",
+        "humanist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Iniciativa Marxista-Humanista",
+      "description" : "Uma grande cisão dos Comitês de Notícias e Cartas que alega manter consistência com suas posições anteriores. Fundada em 2009.",
+      "url" : "https://marxisthumanistinitiative.org/",
+      "categories" : [
+        "all",
+        "humanist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "O Marxista-Humanista Internacional",
+      "description" : "Um periódico marxista-humanista com uma inclinação acadêmica. Incluído nesta lista por sua importância para o discurso contemporâneo.",
+      "url" : "https://imhojournal.org/",
+      "categories" : [
+        "all",
+        "humanist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Crítica Desapiedada",
+      "description" : "Página brasileira que defende o comunismo de conselhos. Publica traduções, críticas, e outros trabalhos originais.",
+      "url" : "https://criticadesapiedada.com.br/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Fio Vermelho",
+      "description" : "Página brasileira com foco na tradução de textos da Esquerda Comunista para o português.",
+      "url" : "https://medium.com/@fiovermelho1917",
+      "categories" : [
+        "all",
+        "leftcom"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Coletivo Ruptura",
+      "description" : "Grupo comunista português. Conta com uma presença modesta na Esquerda Comunista do país.",
+      "url" : "https://coletivoruptura.wordpress.com",
+      "categories" : [
+        "all",
+        "leftcom"
+      ]
+    }
+  ]
+}

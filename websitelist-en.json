@@ -1,0 +1,675 @@
+{
+  "site_name" : "The Big List of Communism",
+  "site_tagline" : "Communism's Web Directory",
+
+  "site_page_list" : "List",
+  "site_page_about" : "About",
+  "site_page_community" : "Community",
+  
+  "translation_select_text" : "Select translation:",
+  "translation_select_button" : "Reload List",
+
+  "site_catname_all" : "All",
+  "site_catname_leftcom" : "All Communist Left",
+  "site_catname_archive" : "All Archives",
+  "site_catname_itleft" : "Italian \"Party\" Left",
+  "site_catname_coleft" : "Dutch-German \"Council\" Left",
+  "site_catname_esleft" : "Spanish Left",
+  "site_catname_scileft" : "Anti-Formist Left",
+  "site_catname_communization" : "Communization",
+  "site_catname_autonomiarel" : "Autonomia and related",
+  "site_catname_situationist" : "Situationists",
+  "site_catname_icp" : "International Communist Party Claimants",
+
+  "site_copyright" : "The Big List of Communism (TBLOC) © 2024 The TBLOC Contributors. All rights reserved.",
+  "site_gpl" : "This work is free software, licensed under the GNU Affero General Public License, Version 3. <a href=\"/LICENSE.txt\">Read it here</a>.",
+  
+  "site_lang" : "en",
+  "site_lang_select" : "Select",
+
+  "websites" : [
+    {
+      "online" : "yes",
+      "name" : "Marxists Internet Archive",
+      "description" : "The largest communist archive in the world, containing works by pretty much everyone who ever called themselves a communist (and some who definitely didn't). Founded in the 1990s, it provides completely uncensored texts and proceedings.",
+      "url" : "https://www.marxists.org/",
+      "categories" : [
+        "all",
+        "archive"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "leftove.rs",
+      "description" : "An archive focusing on 'left-leaning' political movements that are often overlooked, including communist movements. Notable for mostly hosting scans, thus preserving the aesthetic tone of the works they shared.",
+      "url" : "https://archive.leftove.rs/",
+      "categories" : [
+        "all",
+        "archive"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Internationalist Communist Tendency",
+      "description" : "Formed in 2009 from the International Bureau for a Revolutionary Party, a previous reconciliation of the Communist Workers' Organization (UK) and the Internationalist Communist Party. It is thus the heir to the 'original' party of the 'Italian' Communist Left. One of the largest organizations of the Communist Left in the world due to its affiliated groups, it is well-known for its anti-unionist stance.",
+      "url" : "https://www.leftcom.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "ictorbit"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Endnotes",
+      "description" : "The biggest journal in the tendency of Communization.",
+      "url" : "https://endnotes.org.uk/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "communization"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "MEGAdigital",
+      "description" : "Digital parts of the Marx-Engels Complete Edition, in German.",
+      "url" : "https://megadigital.bbaw.de/",
+      "categories" : [
+        "all"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Bureau of Public Secrets",
+      "description" : "Translations of works by the Situationist International to English, along with additional articles.",
+      "url" : "https://bopsecrets.org/",
+      "categories" : [
+        "all",
+        "situationist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "IntCP (The International Communist)",
+      "description" : "One of the claimants to the International Communist Party name, and likely the largest among the ICPs. The group is comprised of the former majority of Il Partito, and split from it in 2024 after a wave of expulsions.",
+      "url" : "https://www.intcp.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Ruthless Criticism",
+      "description" : "A collection of translations and original articles, separated into topics.",
+      "url" : "https://ruthlesscriticism.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Balance y Avante",
+      "description" : "Spanish group that originated from former disparate militants of Il Partito.",
+      "url" : "https://balanceyavante1.wordpress.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Council Communist Collective",
+      "description" : "An attempt to unify those who adhere to council communism. Founded in 2023.",
+      "url" : "https://www.councilist.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Quinterna / n+1",
+      "description" : "One of the main working groups focused in the interaction of revolutionary communism with today's scientific environment. Via QuinternaLab, it hosts meetings and coordinates collective work.",
+      "url" : "https://www.quinterna.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "scileft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "ICP (Il Partito)",
+      "description" : "One of the claimants to the International Communist Party name, born from Il Programma's implosion in the 1970s-80s, after its Florence section was expelled in 1973.",
+      "url" : "https://www.international-communist-party.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "ICP (Il Programma)",
+      "description" : "One of the claimaints to the International Communist Party name, born from a split in the PCInt (Internationalist Communist Party) in 1952.",
+      "url" : "https://www.internationalcommunistparty.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "ICP (Le Prolétaire)",
+      "description" : "One of the claimants to the International Communist Party name, split from Il Programma in 1982.",
+      "url" : "https://www.pcint.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "ICP (El Comunista)",
+      "description" : "Not to be confused with the Le Prolétaire, which publishes 'Il Comunista'. One of the claimants to the International Communist Party name, born from Il Programma's implosion in the 1970s-80s, split circa 1983.",
+      "url" : "https://www.pcielcomunista.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "icp"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Grupo Barbaria",
+      "description" : "The biggest organization of the 'Italian' Communist Left in Spain, and the one which most 'new-wave' left-communist organizations in Europe orbit around. ",
+      "url" : "https://barbaria.net/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "esleft",
+        "scileft" 
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Communia",
+      "description" : "Spanish and English-language Marxist blog focusing on Spain.",
+      "url" : "https://en.communia.blog/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "esleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Controverses",
+      "description" : "A communist website mostly consisting of the internal proceedings of the 'Italian' Communist Left. Supposedly split from the ICC, timeframe uncertain.",
+      "url" : "https://www.leftcommunism.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Solar Collective",
+      "description" : "Workgroup founded in 2024. Emphasizes organic centralism.",
+      "url" : "https://solarcollective.comrades.sbs/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "scileft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Revolutionary Technical Collective",
+      "description" : "A technical communist workgroup founded in 2022, today mostly reserved to maintaining pages of the Communist Left.",
+      "url" : "https://comrades.sbs/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "International Communist Current",
+      "description" : "Formed in 1975. Mostly French, they are well-known proponents of the position that global capitalism has been in a managed crisis since the First World War.",
+      "url" : "https://en.internationalism.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "International Group of the Communist Left",
+      "description" : "Communist group founded in 2013.",
+      "url" : "https://igcl.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft",
+        "ictorbit"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "La Sinistra Internazionale",
+      "description" : "Small left-communist party in Italy.",
+      "url" : "https://sinistracomunistainternazionale.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Groupe Communiste Mondial",
+      "description" : "A now-defunct group, split from Invariance circa 1969.",
+      "url" : "http://groupe-communiste-mondial.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Internationalist Communist Perspective",
+      "description" : "Korean left-communist grouping, publishes articles in English and Korean.",
+      "url" : "http://communistleft.jinbo.net/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "GegenStandpunkt",
+      "description" : "An influential post-maoist publication in Germany, included due to its influence in some contemporary critiques by the Communist Left. Also publishes in other languages.",
+      "url" : "https://de.gegenstandpunkt.com/",
+      "categories" : [
+        "all"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Counseling Communism",
+      "description" : "A council communist study circle founded in 2020.",
+      "url" : "https://counselingcommunism.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Workers' Voice",
+      "description" : "Dutch publication aligned with council communism.",
+      "url" : "https://arbeidersstemmen.wordpress.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },    
+    {
+      "online" : "yes",
+      "name" : "Materiales X La Emancipacion",
+      "description" : "Spanish-language publication mostly aligned with council communism.",
+      "url" : "https://materialesxlaemancipacion.espivblogs.net/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "esleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Left Wing Communism",
+      "description" : "An archive with various texts, mainly of the german-dutch tendency of left-wing communism.",
+      "url" : "https://leftdis.wordpress.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "esleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Paul Mattick Homepage",
+      "description" : "Defunct archive of various texts by Paul Mattick.",
+      "url" : "http://web.archive.org/web/20090303065300/http://home.no/mattick/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Riff-Raff",
+      "description" : "Defunct swedish left-communist group.",
+      "url" : "https://web.archive.org/web/20081231132524/http://www.riff-raff.se/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Antonie Pannekoek Archives",
+      "description" : "Archive of council communist literature.",
+      "url" : "https://www.aaap.be/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Root And Branch Archives",
+      "description" : "Defunct archive about Root and Branch, a small group associated with Paul Mattick, Jr.",
+      "url" : "https://web.archive.org/web/20041028192535/http://www.labor.iu.edu/LaborHistory/rab/home.html",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Kurasje",
+      "description" : "Defunct council communist archive.",
+      "url" : "http://web.archive.org/web/20090221055640/http://www.kurasje.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "Arbertarmakt",
+      "description" : "Defunct council communist archive.",
+      "url" : "http://web.archive.org/web/20090221153345/http://www.arbetarmakt.nu/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft",
+        "archive"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Internationalist Perspective",
+      "description" : "Split from the ICC in 1986. Today, it mainly functions as a communist publication.",
+      "url" : "https://internationalistperspective.org/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "no",
+      "name" : "För Kommunism",
+      "description" : "Long defunct swedish left-communist group.",
+      "url" : "http://web.archive.org/web/20090727161329/http://geocities.com/forkommunism/",
+      "categories" : [
+        "all",
+        "leftcom"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Le Prolétariat Universel",
+      "description" : "A page with interviews and historic texts of the left-communist tradition.",
+      "url" : "https://proletariatuniversel.blogspot.com/",
+      "categories" : [
+        "all",
+        "leftcom"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Troploin",
+      "description" : "A publication in the tendency of Communization. Publishes in both French and English.",
+      "url" : "https://troploin.fr/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "communization"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Viewpoint Magazine",
+      "description" : "Broad-spectrum marxist publication, inquiry and study group.",
+      "url" : "https://troploin.fr/",
+      "categories" : [
+        "all",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Sojourner Truth Organization Archive",
+      "description" : "Archive of pamphlets and publications by the Sojourner Truth Organization, an anti-racist autonomist group in the US.",
+      "url" : "http://www.sojournertruth.net/",
+      "categories" : [
+        "all",
+        "archive",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Revue Matériaux Critiques",
+      "description" : "Left-communist publication which publishes in French, English, and Spanish.",
+      "url" : "https://materiauxcritiques.wixsite.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "itleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Zerowork",
+      "description" : "Archive of works from a collective and journal named around their support for the concept of 'laziness' as a means of insubordination. Features many writings by Harry Cleaver, and was influential within its niche.",
+      "url" : "https://zerowork.org/",
+      "categories" : [
+        "all",
+        "autonomiarel",
+        "archive"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "workerscontrol.net",
+      "description" : "An archive of various works broadly aligned with autonomism and the communist dissidence.",
+      "url" : "https://www.workerscontrol.net/",
+      "categories" : [
+        "all",
+        "archive",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Hic Salta - Communisation",
+      "description" : "A Spanish communization blog with autonomist influences.",
+      "url" : "https://www.hicsalta-communisation.com/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "esleft",
+        "autonomiarel",
+        "communization"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Blaumachen",
+      "description" : "A multilingual blog, with influences of autonomia and communization.",
+      "url" : "https://www.blaumachen.gr/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "esleft",
+        "autonomiarel",
+        "communization"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Big Flame Archive",
+      "description" : "Archives of a 'libertarian'/autonomist class organization that existed in East London, known for running a 'Claimants Union' focused around those on unemployment benefits in the UK.",
+      "url" : "https://www.eastlondonbigflame.org.uk/",
+      "categories" : [
+        "all",
+        "archive",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Global Women's Strike",
+      "description" : "The main grouping behind the Wages For Housework movement.",
+      "url" : "https://globalwomenstrike.net/",
+      "categories" : [
+        "all",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Notes From Below",
+      "description" : "A workers' inquiry group.",
+      "url" : "https://www.angryworkers.org/",
+      "categories" : [
+        "all",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Angry Workers of the World",
+      "description" : "Organization with autonomist leanings.",
+      "url" : "https://www.angryworkers.org/",
+      "categories" : [
+        "all",
+        "autonomiarel"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Internationale Situationniste in English",
+      "description" : "English translations of Situationist works.",
+      "url" : "https://isinenglish.com/",
+      "categories" : [
+        "all",
+        "situationist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "News and Letters Committees",
+      "description" : "A Marxist-Humanist group in the US, which publishes the 'News & Letters' periodical. Founded in 1955, it warrants inclusion in this list due to its influence on stronger dissident positions.",
+      "url" : "https://newsandletters.org/",
+      "categories" : [
+        "all",
+        "humanist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Marxist-Humanist Initiative",
+      "description" : "A large splinter of the News and Letters Committees which claims to maintain consistency with its previous positions. Founded in 2009.",
+      "url" : "https://marxisthumanistinitiative.org/",
+      "categories" : [
+        "all",
+        "humanist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "The International Marxist-Humanist",
+      "description" : "A Marxist-Humanist journal with an academic bent. Included in this list for its importance to contemporary discourse.",
+      "url" : "https://imhojournal.org/",
+      "categories" : [
+        "all",
+        "humanist"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Ruthless Criticism (2020, Brazil)",
+      "description" : "Brazilian councilist publication, publishes translations, critiques, and original texts.",
+      "url" : "https://criticadesapiedada.com.br/",
+      "categories" : [
+        "all",
+        "leftcom",
+        "coleft"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Red Thread",
+      "description" : "Brazilian publication focused around translating works of the Communist Left to portuguese.",
+      "url" : "https://medium.com/@fiovermelho1917",
+      "categories" : [
+        "all",
+        "leftcom"
+      ]
+    },
+    {
+      "online" : "yes",
+      "name" : "Coletivo Ruptura",
+      "description" : "Portuguese communist group. Has a modest presence within that country's Communist Left.",
+      "url" : "https://coletivoruptura.wordpress.com",
+      "categories" : [
+        "all",
+        "leftcom"
+      ]
+    }
+  ]
+}
